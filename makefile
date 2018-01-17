@@ -1,0 +1,2 @@
+all:
+	javac udpring.java
